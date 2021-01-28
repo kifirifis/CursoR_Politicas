@@ -1,0 +1,39 @@
+library(tidyverse)
+list.files("data/barometro/MD3300")
+list.files("data/")
+library(haven)
+datos1 <- read_spss("data/barometro/MD3300/3300.sav") 
+head(datos1)
+str(datos1)
+
+head(datos1)
+datos1$SEXO %>% class()
+plot(as.factor(datos1$SEXO))
+table(as.factor(datos1$SEXO))
+library(foreign)
+datos <- read.spss("data/barometro/MD3300/3300.sav", to.data.frame = T, use.value.labels = T, use.missings = T)
+head(datos)
+str(datos)
+
+datos <- read.csv("data/PTS.csv", header = T)
+
+mex <- datos %>% filter(Country == "Mexico")
+head(mex)
+table(mex$PTS_A)
+
+sp <- datos %>% filter(Country == "Mexico" | Country == "Argentina")
+table(sp$Country, sp$PTS_H)
+
+#http://www.systemicpeace.org/polity/polity4.htm
+library(psData)
+PolityData <- PolityGet(vars = 'polity2')
+
+head(PolityData)
+
+#XML
+# https://www.europarl.europa.eu/meps/en/full-list/xml/
+library(xml2)
+
+
+
+
