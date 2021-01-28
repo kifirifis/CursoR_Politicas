@@ -1,0 +1,187 @@
+"CountryID","Country Name","WEBNAME","Region","World Rank","World Rank","Property Rights","Judical Effectiveness","Trade Freedom","Corporate Tax Rate (%)","Unemployment (%)","Inflation (%)"
+1,"Afghanistan","Afghanistan","Asia-Pacific","136",136,48.3,30,66,20,1.5,0.626
+2,"Albania","Albania","Europe","57",57,57.1,33,88.4,15,13.9,2.029
+3,"Algeria","Algeria","Middle East and North Africa","169",169,37.9,35,66.2,23,12.2,4.27
+4,"Angola","Angola","Sub-Saharan Africa","154",154,36.9,14.3,66.2,30,7.3,19.629
+5,"Argentina","Argentina","Americas","149",149,50.5,47,69.2,30,9.5,34.277
+6,"Armenia","Armenia","Europe","34",34,60.7,54.1,80.6,20,17.7,2.522
+7,"Australia","Australia","Asia-Pacific","4",4,82.8,86.1,88.2,30,5.4,1.979
+8,"Austria","Austria","Europe","29",29,87.3,73.2,86.4,25,4.8,2.119
+9,"Azerbaijan","Azerbaijan","Europe","44",44,67.1,53.9,74.6,20,5.2,2.3
+10,"Bahamas","Bahamas","Americas","69",69,54.9,46.4,47.8,0,11.9,2.249
+11,"Bahrain","Bahrain","Middle East and North Africa","63",63,70.6,48.4,79.4,0,1,2.1
+12,"Bangladesh","Bangladesh","Asia-Pacific","122",122,41,36.1,63.6,45,4.3,5.564
+13,"Barbados","Barbados","Americas","92",92,56.6,36.1,56.6,5.5,9.6,3.632
+14,"Belarus","Belarus","Europe","88",88,63.2,48.4,82,18,5.7,4.867
+15,"Belgium","Belgium","Europe","48",48,84.5,62.5,86.4,29,6.3,2.311
+16,"Belize","Belize","Americas","111",111,44.4,46.4,64.2,25,9.4,0.294
+17,"Benin","Benin","Sub-Saharan Africa","133",133,41.3,36.4,49.4,30,2.1,1.04
+18,"Bhutan","Bhutan","Asia-Pacific","85",85,69.9,46.4,79.4,30,2.2,3.647
+19,"Bolivia","Bolivia","Americas","175",175,20.1,11.2,67.8,25,3.3,2.326
+20,"Bosnia and Herzegovina","BosniaHerzegovina","Europe","82",82,44.4,33.9,80,10,20.8,1.369
+21,"Botswana","Botswana","Sub-Saharan Africa","40",40,60.9,45.2,82.8,22,17.9,3.241
+22,"Brazil","Brazil","Americas","144",144,57.3,46.7,67.8,34,12.5,3.665
+186,"Brunei Darussalam","Brunei","Asia-Pacific","61",61,69.8,56.8,85,18.5,9.2,0.149
+23,"Bulgaria","Bulgaria","Europe","36",36,64.2,45.4,86.4,10,5.3,2.631
+24,"Burkina Faso","BurkinaFaso","Sub-Saharan Africa","117",117,46.9,42.6,61.8,28,6.1,2
+25,"Burma","Burma","Asia-Pacific","141",141,32.5,14.3,70.8,30,1.6,5.944
+26,"Burundi","Burundi","Sub-Saharan Africa","166",166,24.9,26.9,68.2,35,1.5,1.238
+27,"Cambodia","Cambodia","Asia-Pacific","113",113,43.1,28.1,65.4,20,1.1,1.302
+28,"Cameroon","Cameroon","Sub-Saharan Africa","145",145,45.3,30.8,59.6,33,3.4,2.387
+29,"Canada","Canada","Americas","9",9,87.7,72.7,87,15,5.9,0.942
+30,"Cabo Verde","CaboVerde","Sub-Saharan Africa","76",76,47.5,48,68.2,30,12.3,2.243
+31,"Central African Republic","CentralAfricanRepublic","Sub-Saharan Africa","159",159,38.1,31.7,47.2,30,6.5,3
+32,"Chad","Chad","Sub-Saharan Africa","161",161,32.4,27.4,47.2,45,2.2,2.483
+33,"Chile","Chile","Americas","15",15,69.9,61.1,89,27,7.2,2.318
+34,"China","China","Asia-Pacific","103",103,60.9,76.3,72.4,25,4.4,2.1
+35,"Colombia","Colombia","Americas","45",45,61.1,32.8,81.2,33,9.1,3.238
+36,"Comoros","Comoros","Sub-Saharan Africa","143",143,43.1,31.7,59.2,50,3.7,2
+37,"Congo, Democratic Republic of the Congo","DemcoraticRepublicCongo","Sub-Saharan Africa","162",162,30.1,26.5,64.6,40,4.2,29.3
+38,"Congo, Republic of","RepublicCongo","Sub-Saharan Africa","176",176,40.7,30,56.8,34,10.4,1.153
+39,"Costa Rica","CostaRica","Americas","68",68,66.7,54.4,81.4,30,8.1,2.312
+40,"Côte d'Ivoire","CoeDivoire","Sub-Saharan Africa","101",101,48.5,33,69.4,25,2.5,0.284
+41,"Croatia","Croatia","Europe","84",84,69.9,39.6,86.4,18,8.9,1.5
+42,"Cuba","Cuba","Americas","178",178,20.1,10,65.6,30,2.3,6.9
+43,"Cyprus","Cyprus","Europe","37",37,77.4,50.5,86.4,12.5,8.1,0.784
+44,"Czech Republic","CzechRepublic","Europe","23",23,76.8,49.9,86.4,19,2.4,2.158
+45,"Denmark","Denmark","Europe","8",8,86.3,84.6,86.4,23.5,5,0.709
+46,"Djibouti","Djibouti","Sub-Saharan Africa","151",151,58.8,31.7,49.8,25,11.1,-0.136
+47,"Dominica","Dominica","Americas","97",97,59.8,62.6,68.4,30,0,1.359
+48,"Dominican Republic","DominicanRepublic","Americas","95",95,55.8,18.2,76.6,27,5.8,3.564
+49,"Ecuador","Ecuador","Americas","158",158,40.4,20.7,66,25,3.9,-0.224
+50,"Egypt","Egypt","Middle East and North Africa","142",142,48.5,51.2,70.2,23,11.4,20.86
+51,"El Salvador","ElSalvador","Americas","90",90,41.6,30.1,80.8,30,4.4,1.088
+52,"Equatorial Guinea","EquatorialGuinea","Sub-Saharan Africa","167",167,38.1,19.5,48.8,35,9.2,1.346
+53,"Eritrea","Eritrea","Sub-Saharan Africa","177",177,32.5,14.3,69.2,30,6.5,9
+54,"Estonia","Estonia","Europe","10",10,83.2,73.7,86.4,20,5.5,3.412
+156,"Eswatini","Eswatini","Sub-Saharan Africa","131",131,49.8,42.4,88.6,28,22.5,4.825
+55,"Ethiopia","Ethiopia","Sub-Saharan Africa","146",146,36.5,45.1,60.8,30,1.8,13.815
+56,"Fiji","Fiji","Asia-Pacific","77",77,69.9,42.6,52.8,20,4.2,4.08
+57,"Finland","Finland","Europe","20",20,92.3,80.5,86.4,20,7.8,1.169
+58,"France","France","Europe","64",64,85.9,71.2,81.4,31,9.2,2.102
+59,"Gabon","Gabon","Sub-Saharan Africa","118",118,36.9,20.8,51.2,30,19.5,4.773
+60,"Gambia","Gambia","Sub-Saharan Africa","123",123,43.9,43.4,64.6,32,8.9,6.524
+61,"Georgia","Georgia","Europe","12",12,68.6,57.9,88.6,15,14.1,2.615
+62,"Germany","Germany","Europe","27",27,80.5,74.3,86.4,15.8,3.4,1.927
+63,"Ghana","Ghana","Sub-Saharan Africa","104",104,52.5,46.1,63.8,25,6.7,9.837
+64,"Greece","Greece","Europe","100",100,57,48.6,81.4,28,19.2,0.774
+65,"Guatemala","Guatemala","Americas","73",73,45.5,32.2,82.2,31,2.7,3.752
+66,"Guinea","Guinea","Sub-Saharan Africa","121",121,38.7,33.3,60.4,35,3.6,9.7
+67,"Guinea-Bissau","GuineaBissau","Sub-Saharan Africa","148",148,41.3,48.4,49,25,4.1,1.404
+68,"Guyana","Guyana","Americas","124",124,53.6,42.6,66.8,40,12.2,1.296
+69,"Haiti","Haiti","Americas","153",153,16.4,23.3,67,30,13.5,13.478
+70,"Honduras","Honduras","Americas","93",93,48.6,34.2,79.4,25,4.1,4.348
+71,"Hong Kong","HongKong","Asia-Pacific","2",2,93.6,76.8,95,16.5,2.8,2.408
+72,"Hungary","Hungary","Europe","62",62,64.8,45.7,86.4,19,3.7,2.849
+73,"Iceland","Iceland","Europe","13",13,87.6,63.2,86.8,20,2.9,2.683
+74,"India","India","Asia-Pacific","120",120,63,64.1,73.4,32.44,2.6,3.48
+75,"Indonesia","Indonesia","Asia-Pacific","54",54,59.8,56.2,80.8,25,4.3,3.198
+76,"Iran","Iran","Middle East and North Africa","164",164,36.9,37.1,54.6,25,12,31.165
+77,"Iraq","Iraq","Middle East and North Africa","N/A",NA,43.9,11.2,NA,15,7.9,0.367
+78,"Ireland","Ireland","Europe","6",6,86.6,64.4,86.4,12.5,5.7,0.716
+79,"Israel","Israel","Middle East and North Africa","26",26,82.3,71.8,86.2,23,4,0.815
+80,"Italy","Italy","Europe","74",74,75.4,51.3,86.4,27.5,10.2,1.243
+81,"Jamaica","Jamaica","Americas","49",49,62.1,50.5,68.4,25,9.5,3.733
+82,"Japan","Japan","Asia-Pacific","30",30,86.6,71.4,80,23.9,2.5,0.978
+83,"Jordan","Jordan","Middle East and North Africa","66",66,64.8,54.6,81.2,20,15,4.462
+84,"Kazakhstan","Kazakhstan","Asia-Pacific","39",39,61.3,62.1,80.2,20,4.9,6.025
+85,"Kenya","Kenya","Sub-Saharan Africa","132",132,63.2,48.6,60.4,30,9.3,4.69
+86,"Kiribati","Kiribati","Asia-Pacific","172",172,47.5,34.2,23.8,35,30.6,1.864
+87,"Korea, North","NorthKorea","Asia-Pacific","180",180,20.1,5,0,NA,3.3,NA
+88,"Korea, South","SouthKorea","Asia-Pacific","25",25,82.5,61,80,25,3.8,1.477
+185,"Kosovo","Kosovo","Europe","53",53,66.3,54.1,76.2,10,30.5,1.056
+89,"Kuwait","Kuwait","Middle East and North Africa","79",79,57.1,47,76.4,15,2.1,0.7
+90,"Kyrgyz Republic","KyrgyzRepublic","Asia-Pacific","81",81,53.6,31.3,79.2,10,7.2,1.543
+91,"Laos","Laos","Asia-Pacific","129",129,42.5,37.3,82,24,0.6,2.04
+92,"Latvia","Latvia","Europe","32",32,72.3,51.1,86.4,20,7.9,2.554
+93,"Lebanon","Lebanon","Middle East and North Africa","157",157,44.6,30.8,77.4,17,6.2,6.068
+94,"Lesotho","Lesotho","Sub-Saharan Africa","138",138,45.2,47,82.2,25,23.6,5.2
+95,"Liberia","Liberia","Sub-Saharan Africa","165",165,31.1,37.9,60.6,25,2,23.429
+96,"Libya","Libya","Middle East and North Africa","N/A",NA,30.1,20.8,NA,NA,17.3,23.089
+97,"Liechtenstein","Liechtenstein","Europe","N/A",NA,NA,NA,NA,12.5,1.8,0.5
+98,"Lithuania","Lithuania","Europe","16",16,77.9,62.1,86.4,15,6,2.531
+99,"Luxembourg","Luxembourg","Europe","19",19,86.4,74.4,86.4,18,5.5,2.018
+100,"Macau","Macau","Asia-Pacific","35",35,60,60,90,39,2,3.005
+101,"North Macedonia","Macedonia","Europe","41",41,62.5,42.7,86.2,10,21.6,1.458
+102,"Madagascar","Madagascar","Sub-Saharan Africa","99",99,45.6,39.6,73.6,20,1.7,7.291
+103,"Malawi","Malawi","Sub-Saharan Africa","152",152,43.1,42.1,75.4,30,5.4,9.215
+104,"Malaysia","Malaysia","Asia-Pacific","24",24,86.5,74.6,82,25,3.4,0.969
+105,"Maldives","Maldives","Asia-Pacific","119",119,48.5,31.7,61,0,6.1,1.473
+106,"Mali","Mali","Sub-Saharan Africa","126",126,36.1,32.7,65,35,9.6,1.734
+107,"Malta","Malta","Europe","42",42,70.5,49.6,86.4,35,4.6,1.741
+108,"Mauritania","Mauritania","Sub-Saharan Africa","130",130,32.5,20.8,62.6,25,10.3,3.052
+109,"Mauritius","Mauritius","Sub-Saharan Africa","21",21,75.8,62.6,88.2,15,6.9,3.231
+110,"Mexico","Mexico","Americas","67",67,58.3,34.7,87.6,30,3.3,4.898
+111,"Micronesia","Micronesia","Asia-Pacific","156",156,30.1,26.5,70.8,21,16.2,2
+112,"Moldova","Moldova","Europe","87",87,60.5,31.7,78,12,3.4,3.059
+113,"Mongolia","Mongolia","Asia-Pacific","127",127,50.3,23,74,25,6.3,7.65
+114,"Montenegro","Montenegro","Europe","91",91,59.1,55.3,83.8,9,15.5,2.604
+115,"Morocco","Morocco","Middle East and North Africa","78",78,66.3,48,78.6,30,9,1.914
+116,"Mozambique","Mozambique","Sub-Saharan Africa","160",160,34.9,31.7,78,32,3.2,3.911
+117,"Namibia","Namibia","Sub-Saharan Africa","96",96,58.9,58.5,83.2,34,23.1,4.294
+118,"Nepal","Nepal","Asia-Pacific","139",139,40.7,32,60.4,25,1.3,4.15
+119,"Netherlands","Netherlands","Europe","14",14,90,73.9,86.4,25,3.9,1.602
+120,"New Zealand","NewZealand","Asia-Pacific","3",3,93.3,79.1,92.2,28,4.5,1.647
+121,"Nicaragua","Nicaragua","Americas","115",115,33.5,19.5,75.4,30,4.5,4.965
+122,"Niger","Niger","Sub-Saharan Africa","137",137,45.6,42.6,61.2,30,0.3,3.005
+123,"Nigeria","Nigeria","Sub-Saharan Africa","116",116,38.1,32.2,62.4,30,6,12.094
+124,"Norway","Norway","Europe","28",28,84.3,82.8,83.8,22,3.9,2.765
+125,"Oman","Oman","Middle East and North Africa","75",75,66.4,66.2,81.6,12,3.1,0.9
+126,"Pakistan","Pakistan","Asia-Pacific","135",135,48.3,43.2,64.8,30,3,3.925
+127,"Panama","Panama","Americas","55",55,58.8,30,79.2,25,3.9,0.762
+128,"Papua New Guinea","PapuaNewGuinea","Asia-Pacific","108",108,54.9,48.4,79.8,30,2.4,4.74
+129,"Paraguay","Paraguay","Americas","80",80,44.7,26.4,75.4,10,4.7,3.972
+130,"Peru","Peru","Americas","51",51,54.9,30.6,88.4,28,2.8,1.317
+131,"Philippines","Philippines","Asia-Pacific","70",70,54.6,34.2,81.6,30,2.5,5.212
+132,"Poland","Poland","Europe","46",46,63.1,42.8,86.4,19,3.7,1.6
+133,"Portugal","Portugal","Europe","56",56,75.4,65.6,86.4,23,6.9,1.168
+134,"Qatar","Qatar","Middle East and North Africa","31",31,66.9,58.7,81.6,0,0.1,0.223
+135,"Romania","Romania","Europe","38",38,72.5,56.1,86.4,16,4.3,4.631
+136,"Russia","Russia","Europe","94",94,56.8,44.4,77.8,20,4.7,2.878
+137,"Rwanda","Rwanda","Sub-Saharan Africa","33",33,76.5,78.3,70.4,30,1,1.364
+138,"Saint Lucia","SaintLucia","Americas","50",50,69.8,62.6,73.2,30,20.9,1.931
+139,"Saint Vincent and the Grenadines","SaintVincentGrenadines","Americas","59",59,50.5,62.6,67.2,33,19.8,2.388
+140,"Samoa","Samoa","Asia-Pacific","86",86,60.5,31.7,64.6,27,8.3,3.672
+141,"São Tomé and Príncipe","SaoTomePrincipe","Sub-Saharan Africa","125",125,41,26.5,64.2,25,13.3,7.864
+142,"Saudi Arabia","SaudiArabia","Middle East and North Africa","83",83,64.6,72.3,75.4,2.5,5.9,2.483
+143,"Senegal","Senegal","Sub-Saharan Africa","110",110,52.4,39.8,65.4,30,6.5,0.465
+144,"Serbia","Serbia","Europe","65",65,55.4,46.8,78,15,13.5,1.96
+145,"Seychelles","Seychelles","Sub-Saharan Africa","72",72,68.3,46.4,82.6,33,3,3.699
+146,"Sierra Leone","SierraLeone","Sub-Saharan Africa","168",168,40.7,39.4,69.4,30,4.3,16.865
+147,"Singapore","Singapore","Asia-Pacific","1",1,96.8,92.9,94.8,17,3.8,0.439
+148,"Slovakia","Slovakia","Europe","60",60,73.1,41.7,86.4,21,6.8,2.525
+149,"Slovenia","Slovenia","Europe","52",52,76.5,48.6,86.4,17,5.5,1.739
+150,"Solomon Islands","SolomonIslands","Asia-Pacific","150",150,54.6,53.7,48,30,1.8,0.992
+184,"Somalia","Somalia","Sub-Saharan Africa","N/A",NA,20.1,26.5,NA,NA,14,1.5
+151,"South Africa","SouthAfrica","Sub-Saharan Africa","106",106,58.4,38,75.8,28,27,4.62
+152,"Spain","Spain","Europe","58",58,74.9,51.8,86.4,25,15.5,1.675
+153,"Sri Lanka","SriLanka","Asia-Pacific","112",112,47.7,39.2,67.6,28,4.4,4.27
+154,"Sudan","Sudan","Sub-Saharan Africa","173",173,33.7,20.8,52,35,12.9,63.293
+155,"Suriname","Suriname","Americas","163",163,45.6,19.5,69.8,36,7.6,6.939
+157,"Sweden","Sweden","Europe","22",22,88.8,79.9,86.4,21.4,6.4,2.035
+158,"Switzerland","Switzerland","Europe","5",5,87.4,81.5,86.6,8.5,4.9,0.934
+159,"Syria","Syria","Middle East and North Africa","N/A",NA,45.6,20.8,51.6,NA,8.1,0.9
+160,"Taiwan","Taiwan","Asia-Pacific","11",11,86.9,70.1,86,20,3.7,1.456
+161,"Tajikistan","Tajikistan","Asia-Pacific","155",155,49.1,50,75,15,10.9,3.848
+162,"Tanzania","Tanzania","Sub-Saharan Africa","89",89,41.9,43.4,67.8,30,1.9,3.509
+163,"Thailand","Thailand","Asia-Pacific","43",43,59.5,48,83,20,0.7,1.064
+164,"Timor-Leste","TimorLeste","Asia-Pacific","171",171,45.2,12.6,75,10,3,2.294
+165,"Togo","Togo","Sub-Saharan Africa","140",140,41.6,31.7,63.2,27,1.7,0.727
+166,"Tonga","Tonga","Asia-Pacific","107",107,60.9,26.5,74,25,1,3.863
+167,"Trinidad and Tobago","TrinidadTobago","Americas","109",109,56.6,42.1,67.8,25,2.8,1.062
+168,"Tunisia","Tunisia","Middle East and North Africa","128",128,56.4,43.6,66.4,30,15.5,7.308
+169,"Turkey","Turkey","Europe","71",71,57.4,53.7,78,22,10.9,16.332
+170,"Turkmenistan","Turkmenistan","Asia-Pacific","170",170,20.1,20,74.2,8,3.8,13.562
+171,"Uganda","Uganda","Sub-Saharan Africa","102",102,45.6,36.9,75.4,30,1.7,2.625
+172,"Ukraine","Ukraine","Europe","134",134,47.5,42.2,81.2,18,9.4,10.947
+173,"United Arab Emirates","UnitedArabEmirates","Middle East and North Africa","18",18,80.3,84.6,80.4,0,2.6,3.08
+174,"United Kingdom","UnitedKingdom","Europe","7",7,92.2,82.7,86.4,20,4,2.478
+175,"United States","UnitedStates","Americas","17",17,81.8,83.7,79.8,21,3.9,2.435
+176,"Uruguay","Uruguay","Americas","47",47,72,59.8,77.4,25,8,7.607
+177,"Uzbekistan","Uzbekistan","Asia-Pacific","114",114,59.1,34.2,67.6,7.5,5.2,17.899
+178,"Vanuatu","Vanuatu","Asia-Pacific","98",98,68.3,36.1,63.4,0,5.4,2.837
+179,"Venezuela","Venezuela","Americas","179",179,10.1,12.6,58,34,8.4,929789.5
+180,"Vietnam","Vietnam","Asia-Pacific","105",105,52.6,40.1,79.6,22,1.9,3.54
+181,"Yemen","Yemen","Middle East and North Africa","N/A",NA,22.5140374044355,20.1053174798536,70,NA,12.9,41.773
+182,"Zambia","Zambia","Sub-Saharan Africa","147",147,45.2,31.3,72.6,35,7.2,7.043
+183,"Zimbabwe","Zimbabwe","Sub-Saharan Africa","174",174,33.7,28.3,70,25,4.9,10.607
